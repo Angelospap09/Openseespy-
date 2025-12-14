@@ -1,8 +1,9 @@
 
-matplotli==3.10.8
+matplotlib==3.10.8
 numpy==2.3.5
 openseespy==3.7.0.3
 opsvis==1.3.4
 pandas==2.3.3
 streng==0.0.7
 math
+
